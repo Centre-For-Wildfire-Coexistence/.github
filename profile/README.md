@@ -1,6 +1,4 @@
 # CWC Shared Github
-<img src="./Wildfire_1.mp4)" width="120" height="80" />
-
 
 ![Center For Wildfire Coexistence ](./Wildfire_1.gif)
 
