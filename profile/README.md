@@ -1,32 +1,33 @@
-# IRSS Shared Github
+# CWC Shared Github
+<img src="./Wildfire_1.mp4)" width="120" height="80" />
 
-![collage](./irss_collage.png)
+
+![Center For Wildfire Coexistence ](./Wildfire_1.mp4)
 
 ## Overview
 
-The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative project to support research across British Columbia that advances fire resilience and indigenous land stewardship. This github repository includes a list key documents and resources for collaborators. 
+The [Centre for Wildfire Coexistence](https://cwc.ubc.ca/) is a collaborative project to support research across British Columbia that advances fire resilience and indigenous land stewardship. This github repository includes a list key documents and resources for project partners. 
+
+### Centre Mission Statement
+To take a holistic view of wildfires and catalyze transformative changes to fire and forest management that are urgently needed to address social-ecological impacts of contemporary wildfires and to coexist with future wildfires.
 
 ## Overview
 - [Other lab sites](#other-lab-sites)
 - [Detailed List of Content](#detailed-list-of-content)
 - [Potential Usage](#potential-usage)
-- [Suggested Contribitons From Lab Members](#suggested-contribitons-from-lab-members)
+- [Suggested Contributions From Lab Members](#suggested-contribitons-from-lab-members)
 
 <br />
 
 # Other lab sites
 
-[IRSS Welcome Doc](https://irss-ubc.github.io/irss-welcome/)
+[Center for Wildfire Coexistence](https://cwc.ubc.ca/)
 
-[Lab Bluesky](https://bsky.app/profile/irssubc.bsky.social)
+[Tree Ring Lab](https://www.ubctreeringlab.ca/)
 
-[UBC IRSS Site](https://irsslab.forestry.ubc.ca/)
+[Indigenous Ecology Lab](https://www.indigenousecology.com/dr-grenz/)
 
-[IRSS Papers](https://irss-ubc.github.io/irss_papers/)
-
-[IRSS AI Research](https://irss-ubc.github.io/irss-ai-publications.github.io/)
-
-[Amy's Blog](https://amywotherspoon.wixsite.com/amyw)
+[Post-Doc Sarah Smith-Tripp](https://sarahsmithtripp.github.io/)
 
 <br />
 
@@ -34,46 +35,17 @@ The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative pr
 
 | Content | Author |
 | --------------- | --------------- |
-| [Network Shares](https://github.com/IRSS-UBC/NetworkShares/blob/main/README.md) | Brent Murray|
-| [Workstation Best Practices](https://github.com/IRSS-UBC/WorkstationBestPractices/blob/main/README.md) | Brent Murray|
-| [Rusterize - Fast Rasterization with Rust](https://github.com/ttrotto/rusterize) | Tommaso Trotto|
-| [Random Name Picker - Python and R](https://github.com/Brent-Murray/name_picker) | Brent Murray|
-| [Local Maxima Animated GIF Creation](https://github.com/liamirwin/ITD_Animator) | Liam Irwin|
-| [Cuda Performance Testing for Raster Analysis](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Cuda%20Performance%20Testing%20for%20Raster%20Analysis) | Lukas Winiwarter|
-| [HELIOS++ Workshop](https://www.winiwarter.dev/helios/) | Lukas Winiwarter|
-| [Robocopy File Backup Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Robocopy) | Sarah Smith-Tripp|
-| [Point Cloud Deep Learning for Forest Data Tutorial](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Point%20Cloud%20Deep%20Learning) | Harry Seely|
-| [NTEMS Clipping R Code](https://github.com/IRSS-UBC/ntems_clipping_terra) | Bud (Evan Muise) |
-| [Windows Subsystem for Linux Setup Tutorial](https://github.com/IRSS-UBC/WSL-tutorial) | Tommaso Trotto|
-| [LAStools in R Tutorial](https://github.com/IRSS-UBC/LAStools-tutorial) | Tristan Goodbody |
-| [Custom Raster Tiling Tutorial](https://github.com/IRSS-UBC/raster-tiling) | Chris Mulverhill |
-| [Stepwise Variable Selection For Lidar Metric Model](https://github.com/IRSS-UBC/irss_tips_tricks_sharing/tree/main/Stepwise%20Variable%20Selection%20For%20Lidar%20Metric%20Model) | Harry Seely|
-| [References Management with Notion and Zotero (Notero)](https://github.com/IRSS-UBC/NoteroLiteratureReview) | Brent Murray |
-| [IRSS 2023 Hackathon](https://github.com/IRSS-UBC/IRSS-Hackathon-2023) | Multiple Contributors |
-| [NTEMS Clipping Python Code](https://github.com/IRSS-UBC/ntems_clipping_python) | Elaine Ye |
-| [Point Cloud Deep Learning For Tree Biomass](https://github.com/IRSS-UBC/Biomass-DL) | Harry Seely |
-| [Media Tools](https://github.com/IRSS-UBC/MediaTools) | Lukas Olson
-| [GEDI Tutorials](https://github.com/IRSS-UBC/GEDI_Workshop) | Atticus Stovall
-| [3PG](https://github.com/IRSS-UBC/3pg2) | Sarah (Vaughan) Zwiep & Joe Meyer
-| [Bulk Download Satellite Imagery](https://github.com/IRSS-UBC/download_imagery) | Multiple Contributors
-| [Parallelized lidR](https://github.com/IRSS-UBC/parallelized_lidR) | Harry Seely
-| [Silva21 R Package](https://github.com/IRSS-UBC/silvR21) | Michael Burnett
-| [Exepy -- Python environment to EXE](https://github.com/IRSS-UBC/Exepy) | Lukas Olson
-| [Copernicus Download Tool](https://github.com/IRSS-UBC/CopernicusDownload) | Lukas Olson & Ramon Melser
-| [silva21 EFI prediction dashboard](https://github.com/IRSS-UBC/silva21-efi-web) | Joe Meyer 
-| [Useful stats resources](https://github.com/IRSS-UBC/UsefuelStats) | Jose Riofrio & Sarah Smith-Tripp|
-| [GDAL Quick Tricks](https://github.com/IRSS-UBC/GDAL_QuickTricks) |Sarah Smith-Tripp| 
-| [GDI+ parameter is not valid Fixer](https://github.com/lukasgolson/ImageResizerTool) |Lukas Olson|
-| [Earthaccess collection batch downloader](https://github.com/IRSS-UBC/earthdata_downloader) |Ramon Melser|
-| [PlanetScope data acquisition and pre-processing](https://github.com/Spencer-Shields/planet-tools) | Spencer Shields|
-| [NTEMS Clipping GUI](https://github.com/IRSS-UBC/NTEMS-Clipping-GUI) | Juan Pedro Carbonell-Rivera|
+| [FuelAnalyst](https://github.com/Centre-For-Wildfire-Coexistence/FuelAnalyst.git) | Dr. Greg Greene|
+| [FuelDataCleaning](https://github.com/Centre-For-Wildfire-Coexistence/FuelDataCleaning) | Dr. Sarah Smith-Tripp + Mike Stefanuk|
+| [Demo-WorkingWithConPyro](https://github.com/Centre-For-Wildfire-Coexistence/Demo-WorkingWithConPyro.git) | Dr. Sarah Smith-Tripp + Dr. Greg Greene|
+
 
  <br />
 
 # Potential Usage
 
-1. Learn how other lab members are approaching their research through code
-2. Access useful tips/tricks from lab members 
+1. Learn how to implement lab workflows, such as ConPryo
+2. Leverage existing lab resources to improve your own workflows
 3. Share lab knowledge more efficiently
 4. Showcase your work
 
@@ -83,9 +55,9 @@ The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative pr
 
 # Suggested Contribitons From Lab Members
 
-1. Feel free to add your own github repos for your research
-2. Add short tutorials in the tutorials repo
-3. If you are not writing a large amount of code for your research, share other things such as conceptual aspects of your projects
+1. Add your own github repositories for your research
+2. Add tutorials to help students implement similar processes (e.g. site selection)
+3. If you are not writing a large amount of code for your research, share documentation for other resources (e.g. statistical concepts)
 4. Use this site to develop lab culture: make/fork a repo for anything you think is interesting!
 
      ...
@@ -94,8 +66,7 @@ The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative pr
 
 ## Steps for contributing ✏️
 
-**Before doing anything, ensure you are a member of the IRSS github organization. If you are not, provide Harry with your github associated email and he will add you**
-
+**Before doing anything, ensure you are a member of the CWC github organization. If you are not, provide Sarah Smith-Tripp with your github associated email and she will add you**
 
 ### There are multiple ways to contribute to this org. 
 &rarr; If you already have an existing repo, go to A 
@@ -115,34 +86,34 @@ The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative pr
 2)  Go to the repo on your personal Github website and then Settings
 
 3) At the bottom of the page, in the "Danger Zone" section 
-<img src="https://media.giphy.com/media/3EuAsjZDUJefK/giphy.gif" width="120" height="80" />
+<img src="https://giphy.com/embed/LpkLWXTp0v0qy70xPp" width="480" height="350 />
 
 
-4) Under "Change repository visibility", ensure the repo is public (this wont work with private repos)
+5) Under "Change repository visibility", ensure the repo is public (this won't work with private repos)
 
-5) On the repo main page clikc the "Fork" icon (top right)
+6) On the repo main page click the "Fork" icon (top right)
    
-6) Set the owner of the fork as IRSS-UBC, set the repo name to be shown on the org (or keep original name), add a description
+7) Set the owner of the fork as Center-For-Wildfire-Coexistence, set the repo name to be shown on the org (or keep original name), add a description
    
 8) Ensure that "Copy the main branch only" is ticked, and then select "Create fork"
 
-9) Forking may take a minute. Once it is done, head over to IRSS-UBC org and locate your repo under "Repositories" at the bottom of the page.
+9) Forking may take a minute. Once it is done, head over to Center-For-Wildfire-Coexistence org and locate your repo under "Repositories" at the bottom of the page.
 
-10) You now have a forked version of your repo on the IRSS-UBC organisation site. Whenever you make changes to the repo on your github, you will need to sync these on the UBC-IRSS org repo. To sync changes, go to the repo on the IRSS-UBC org and select "Sync Fork" and then "Update Branch". 
-
-<br />
-
-***Note that if you want to remove your repo from the IRSS org, this can easily be done by going to settings on the repo and [deleting the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) from the org, but ensure you are not deleting the repo on your own github site!***
+10) You now have a forked version of your repo on the Center-For-Wildfire-Coexistence. Whenever you make changes to the repo on your github, you will need to sync these on the Center-For-Wildfire-Coexistence org repo. To sync changes, go to the repo on the Center-For-Wildfire-Coexistence, org and select "Sync Fork" and then "Update Branch". 
 
 <br />
 
-**For more detailed information about transfering forking repos see this [site](https://docs.github.com/en/get-started/quickstart/fork-a-repo).**
+***Note that if you want to remove your repo from the Center-For-Wildfire-Coexistence, org, this can easily be done by going to settings on the repo and [deleting the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) from the org, but ensure you are not deleting the repo on your own github site!***
+
+<br />
+
+**For more detailed information about transferring forking repos see this [site](https://docs.github.com/en/get-started/quickstart/fork-a-repo).**
 
 <br />
 
 ### B: You do not have an existing repo start here
 
-1) On the UBC-IRSS gitub org go to the "Repositories" tab
+1) On the Centre-For-Wildfire-Coexistence gitub org go to the "Repositories" tab
 
 2) Click "New Repository" 
 
@@ -156,7 +127,7 @@ The (Centre for Wildfire Coexistence)[https://cwc.ubc.ca/] is a collaborative pr
 
 ### C: You are sharing a repo with someone working on the same project
 
-1) It is best to keep code that is for the same project (e.g., Silva21) in the same repo. If you are working on a project with someone, ensure your code is in the same repo, and then follow steps in either section A or B depending on context.
+1) It is best to keep code that is for the same project (e.g., ConPryo) in the same repo. If you are working on a project with someone, ensure your code is in the same repo, and then follow steps in either section A or B depending on context.
 
 <br />
 
@@ -170,13 +141,3 @@ If you have limited git/github experience but stil want to contribute, send me y
 ### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <br />
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
